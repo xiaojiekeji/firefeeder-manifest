@@ -1,9 +1,1 @@
-{
- "versionCode": 244,
- "versionName": "1.16.33",
- "apkUrl": "https://aka.doubaocdn.com/s/IReFJfXHO1",
- "size": 34853861,
- "md5": "3a08529f10ff8bf25f17e8895a5cc419",
- "notes": "全流程提速：搜索页/弹层/进面板/结果页轮询收紧，倒计时扫描限 12 带，搜索框校验省一次 dump",
- "pubAt": "2026-11-21"
-}
+{"versionCode":245,"versionName":"1.16.34","apkUrl":"https://aka.doubaocdn.com/s/dB4pbAIMWT","size":34854021,"md5":"cccb7e9b36ac705aed21402b3bef067c","notes":"修复搜索页反复重复搜索：框内已含本号即跳过写入/清空，失败只允许一次重写，发私信最多2次；适配第①步前自动唤醒+关锁屏+收通知栏","pubAt":"2026-11-22"}
