@@ -1,9 +1,9 @@
 {
- "versionCode": 243,
- "versionName": "1.16.32",
- "apkUrl": "https://aka.doubaocdn.com/s/Y9DCak1jQo",
- "size": 34853872,
- "md5": "669755af15d68672252ccc82443dc727",
- "notes": "更新源改为可变 CDN 清单，任意版本可自检测在线升级",
+ "versionCode": 244,
+ "versionName": "1.16.33",
+ "apkUrl": "https://aka.doubaocdn.com/s/IReFJfXHO1",
+ "size": 34853861,
+ "md5": "3a08529f10ff8bf25f17e8895a5cc419",
+ "notes": "全流程提速：搜索页/弹层/进面板/结果页轮询收紧，倒计时扫描限 12 带，搜索框校验省一次 dump",
  "pubAt": "2026-11-21"
 }
