@@ -1,9 +1,9 @@
 {
- "versionCode": 242,
- "versionName": "1.16.31",
- "apkUrl": "https://aka.doubaocdn.com/s/j24VPDHgur",
- "size": 34637275,
- "md5": "a1ac1e79087f90a7a9b2ac038507c0ec",
- "notes": "v1.16.31",
+ "versionCode": 243,
+ "versionName": "1.16.32",
+ "apkUrl": "https://aka.doubaocdn.com/s/Y9DCak1jQo",
+ "size": 34853872,
+ "md5": "669755af15d68672252ccc82443dc727",
+ "notes": "更新源改为可变 CDN 清单，任意版本可自检测在线升级",
  "pubAt": "2026-11-21"
 }
