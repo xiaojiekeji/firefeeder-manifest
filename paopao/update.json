@@ -1,0 +1,9 @@
+{
+  "version_code": 20002507,
+  "version_name": "1.28.270",
+  "apk_url": "https://aka.doubaocdn.com/s/lATcf8DLID",
+  "size": 32247234,
+  "sha256": "AA1E2E55AD09BEA154715CFEAA9D909EC6189F962BE8862B1E8431F9D914C52C",
+  "note": "1.28.270：在线更新链路改造，检查更新/下载安装统一走固定清单（GitHub + jsDelivr/gitmirror 备源），彻底移除旧版官方 OTA 请求代码；修复旧版本无法感知新版的问题。",
+  "force": false
+}
